@@ -22,5 +22,5 @@ A text-based planner where a user can add, remove, and display tasks. Implemente
 2. Add a task
 3. Remove a task
 4. Show all tasks
-0: Quit
+0. Quit
 
