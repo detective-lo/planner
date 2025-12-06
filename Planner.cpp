@@ -66,8 +66,7 @@ void Planner::add(string name, string desc, string deadline) {
     newTask->desc = desc;
     newTask->deadline = deadline;
     newTask->next = nullptr;
-
-    // Non-empty list
+    
     Task *p = head;
     Task *n = nullptr;
 
