@@ -1,5 +1,5 @@
-# ToDoList
-A simple text-based planner where a user can add, remove, and display tasks. Implemented using a linked list.
+# Planner
+A text-based planner where a user can add, remove, and display tasks. Implemented using a linked list.
 
 ----------------------------------------
 
